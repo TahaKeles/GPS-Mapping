@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point", # polygon, point , way
+    "coordinates": [125.6, 10.1] # latitude, longitude
+  },
+  "properties": {
+    "name": "Dinagat Islands" # can be named
+  }
+}
+
+
